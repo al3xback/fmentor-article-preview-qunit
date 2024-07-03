@@ -1,8 +1,7 @@
 {
 	"name": "fmentor-article-preview-qunit",
+	"private": true,
 	"version": "1.0.0",
-	"description": "article preview component using qunit",
-	"main": "index.js",
 	"type": "module",
 	"scripts": {
 		"sass-dev": "sass --watch scss/main.scss css/main.css",
